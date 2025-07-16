@@ -1,6 +1,6 @@
 <!-- 🦇 BATMAN LOGO -->
 <p align="right">
-  <img src="assets/batman_logo.jpeg" alt="batman_logo" width="40"/>
+  <img src="assets/batman-logo.jpeg" alt="batman-logo" width="40"/>
 </p>
 
 <!-- 🎬 BANNER -->
@@ -8,13 +8,9 @@
   <img src="assets/banner.png" alt="banner" width="100%"/>
 </p>
 
-<!-- ⌨️ TYPING HEADERS -->
+<!-- ⌨️ TOP TYPING BANNER (Main Tagline) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=1A73E8&center=true&vCenter=true&width=435&lines=Turning+Data+into+Real+Solutions;Building+ML-powered+Automation;Full-Stack+Analyst+in+Progress" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=F75C2F&center=true&vCenter=true&width=435&lines=Python%2C+SQL%2C+LangChain%2C+Streamlit%2C+Pandas%2C+XGBoost%2C+FAISS;Regression%2C+Clustering%2C+NLP%2C+Classification%2C+Time+Series%2C+EDA" alt="Typing TechStack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Real+Solutions;Building+ML-powered+Automation;Full-Stack+Analyst+in+Progress" alt="Typing Header" />
 </p>
 
 ---
@@ -22,14 +18,14 @@
 ## 👨‍💻 About Me
 
 🚀 Data Analyst in progress  
-🧠 AI + ML enthusiast building smart automation  
-📊 Obsessed with dashboards, pipelines, and production-ready ML  
-🧰 Python-first problem solver  
-🦾 Automating boring stuff with style  
+🧠 AI + ML enthusiast  
+🛠️ Python + SQL ninja  
+📊 Loves dashboards, hates manual work  
+🦾 Automating boring stuff with smart tech  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (with Logos)
 
 ### 🚀 Languages  
 <p>
@@ -81,3 +77,5 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+---
