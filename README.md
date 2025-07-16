@@ -1,16 +1,33 @@
-## Hey There 
+<!-- BATMAN LOGO -->
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Batman_Logo.svg" alt="batman-logo" width="40"/>
+</p>
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/Abhishek24122000/Abhishek24122000/assets/Abhishek24122000/banner.png" alt="banner" width="100%"/>
+</p>
+
+<!-- OPTIONAL TYPING HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&color=1A73E8&width=435&lines=Turning+Data+into+Real+Solutions;Building+ML-powered+Automation;Full-Stack+Analyst+in+Progress" alt="Typing SVG" />
+</p>
+
+<!-- ABOUT ME STARTS -->
+## About Me
 
 I'm **Abhishek Palsodkar**, a Data Science enthusiast and Data Analysis aspirant focused on building intelligent, real-world solutions using modern data science tools and AI technologies to drive innovation.
 
 My work revolves around Machine Learning and AI-based automation — using predictive modeling, pattern recognition, and ML algorithms to uncover insights and improve decision-making.  
 I also specialize in building interactive dashboards and pipelines with a strong foundation in clean, production-ready Python development.
 
-My current focus is on:
+**My current focus is on:**
 - Applying ML algorithms to extract patterns, predict outcomes, and support business strategy  
 - Automating end-to-end data workflows to reduce manual effort and improve scalability  
 - Designing scalable AI solutions using LangChain and OpenAI APIs  
 - Creating powerful data visualizations for business intelligence  
 - Deploying ML workflows that solve real user problems in production environments
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Making;Data-Driven+Solutions" alt="Typing SVG" />
@@ -20,6 +37,9 @@ My current focus is on:
   <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/banner.png" alt="Abhishek Banner" width="90%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&color=1A73E8&width=435&lines=Turning+Data+into+Real+Solutions;Building+ML-powered+Automation;Full-Stack+Analyst+in+Progress" alt="Typing SVG" />
+</p>
 
 ## 🧰 Tech Stack
 
