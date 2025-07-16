@@ -1,6 +1,6 @@
 <!-- 🦇 BATMAN LOGO -->
 <p align="right">
-  <img src="assets/batman-logo.svg" alt="batman-logo" width="40"/>
+  <img src="assets/batman-logo.png" alt="batman-logo" width="40"/>
 </p>
 
 <!-- 🎬 BANNER -->
