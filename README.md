@@ -1,6 +1,6 @@
 <!-- BATMAN LOGO (Optional Top Right) -->
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/batman_tr.png" alt="batman_logo" width="80"/>
+  <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/batman_l.png" alt="batman_logo" width="80"/>
 </p>
 
 <!-- BANNER -->
