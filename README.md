@@ -12,6 +12,10 @@ My current focus is on:
 - Creating powerful data visualizations for business intelligence  
 - Deploying ML workflows that solve real user problems in production environments
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Making;Full-Stack+Analyst;Builder+of+Data-Driven+Solutions" alt="Typing SVG" />
+</p>
+
 
 ## 🧰 Tech Stack
 
