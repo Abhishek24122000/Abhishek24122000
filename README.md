@@ -1,13 +1,13 @@
-<h1 align="center">🧠 Abhishek Palsodkar</h1>
-<h3 align="center">Data Science Enthusiast | Data Analyst Aspirant | AI solutions Practitioner </h3>
+## Hey There 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/banner.png" alt="banner" width="90%"/>
-</p>
+I'm **Abhishek Palsodkar**, a Data Science enthusiast and Data Analysis aspirant focused on building intelligent, real-world solutions using modern data science tools and AI technologies to drive innovation.
 
-<p align="center">
-  <em>“Driven by data. Defined by discipline.”</em><br><br>
-  🎓 <strong>BCA, MIT-WPU Pune(2022) </strong> ・ <strong>MS in Data Science, University of Arizona (2024)</strong><br>
-  🌐 <strong>Fluent:</strong> English ・ Hindi ・ Marathi ・ Japanese (JLPT N3)<br>
-  
-</p>
+My work revolves around Machine Learning and AI-based automation — using predictive modeling, pattern recognition, and ML algorithms to uncover insights and improve decision-making.  
+I also specialize in building interactive dashboards and pipelines with a strong foundation in clean, production-ready Python development.
+
+My current focus is on:
+- Applying ML algorithms to extract patterns, predict outcomes, and support business strategy  
+- Automating end-to-end data workflows to reduce manual effort and improve scalability  
+- Designing scalable AI solutions using LangChain and OpenAI APIs  
+- Creating powerful data visualizations for business intelligence  
+- Deploying ML workflows that solve real user problems in production environments
