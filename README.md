@@ -1,33 +1,31 @@
-<!-- 🦇 BATMAN LOGO -->
+<!-- BATMAN LOGO (Top Right) -->
 <p align="right">
-  <img src="assets/batman-logo.jpeg" alt="batman-logo" width="40"/>
+  <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/batman_logo.jpg" alt="batman-logo" width="40"/>
 </p>
 
-<!-- 🎬 BANNER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/banner.png" alt="banner" width="100%"/>
 </p>
 
-<!-- ⌨️ TOP TYPING BANNER (Main Tagline) -->
+<!-- TYPING HEADER (TOP) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Real+Solutions;Building+ML-powered+Automation;Full-Stack+Analyst+in+Progress" alt="Typing Header" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🚀 Data Analyst in progress  
-🧠 AI + ML enthusiast  
-🛠️ Python + SQL ninja  
-📊 Loves dashboards, hates manual work  
-🦾 Automating boring stuff with smart tech  
+- Data Science and ML enthusiast with a focus on automation and end-to-end solutions  
+- Experience in Python, LangChain, OpenAI API, and interactive dashboard design  
+- Passionate about turning raw data into clean insights and production-grade applications  
 
 ---
 
-## 🧰 Tech Stack (with Logos)
+## Tech Stack
 
-### 🚀 Languages  
+### Languages  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-### 📊 Data Science & ML  
+### Data Science & Machine Learning  
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -44,7 +42,7 @@
   <img src="https://img.shields.io/badge/Statsmodels-EEE?style=flat"/>
 </p>
 
-### 🧠 NLP & AI  
+### NLP & AI  
 <p>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat"/>
   <img src="https://img.shields.io/badge/NLTK-008000?style=flat"/>
@@ -53,7 +51,7 @@
   <img src="https://img.shields.io/badge/FAISS-2496ED?style=flat"/>
 </p>
 
-### 📈 BI & Visualization  
+### Visualization & BI  
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
   <img src="https://img.shields.io/badge/Seaborn-007BA7?style=flat"/>
@@ -61,13 +59,13 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 </p>
 
-### ⚙️ Deployment & DevOps  
+### Deployment & DevOps  
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FCC72B?style=flat&logo=huggingface&logoColor=black"/>
 </p>
 
-### 🔧 Version Control & IDEs  
+### Version Control & IDEs  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -79,3 +77,30 @@
 </p>
 
 ---
+
+<!-- Typing Animation: All Skills (One word at a time) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=400&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python;SQL;LangChain;Streamlit;XGBoost;FAISS;Classification;Regression;Clustering;NLP;Time+Series;Dashboards;ETL;EDA;Deployment;Pandas;NumPy;PowerBI;Tableau;spaCy;NLTK" alt="TechStack Typing" />
+</p>
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-palsodkar-936937183/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://abhishek24122000.github.io/portfolio.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.kaggle.com/abhishek24122000" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:palsodkarabhishek24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+  </a>
+  <a href="https://your-live-demo-link.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-228B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
