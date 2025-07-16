@@ -2,6 +2,9 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/Abhishek24122000/Abhishek24122000/main/assets/Batman_l.png" alt="Batman_l" width="80"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Batman Animation" width="250"/>
+</p>
 
 <!-- BANNER -->
 <p align="center">
