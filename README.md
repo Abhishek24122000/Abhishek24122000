@@ -18,7 +18,7 @@
 ##  About Me
  **Abhishek Palsodkar** — Data Analyst & AI automation enthusiast  
  Passionate about solving real-world problems with data  
- Skilled in ML, NLP, dashboards, and scalable data solutions  
+ Skilled in ML, dashboards, and scalable data solutions  
  Focused on automation, analytics, and intelligent pipelines
 
 ---
