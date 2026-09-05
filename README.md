@@ -1,7 +1,5 @@
 <!-- BATMAN ENTRANCE GIF -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZybGI2bm5vZWFzcDk2ZGliazEzemhwNmhtdW1qZmZ5MDNtMnRtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C7RCCFdaixA3u/giphy.gif" alt="batman-intro" width="100%"/>
-</p>
+
 
 <!-- BANNER -->
 <p align="center">
