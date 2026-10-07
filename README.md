@@ -23,7 +23,7 @@ I am looking for data science and ML / AI roles in Japan.
 
 ## Projects
 
-Each demo opens without signing in. The AI Data Analyst backend runs on a free server, so its first request after a quiet period can take up to a minute.
+Each demo opens without signing in. The AI Data Analyst backend and the Streamlit apps run on free hosting, so the first visit after a quiet period can take up to a minute to wake up.
 
 <table>
   <tr>
@@ -31,12 +31,15 @@ Each demo opens without signing in. The AI Data Analyst backend runs on a free s
     <td><a href="https://business-insight-360-fast.palsodkarabhishek24.workers.dev"><img src="assets/card-business-insight.svg" alt="Business Insight" width="100%"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://coldemailgenerator-tool.streamlit.app"><img src="assets/card-cold-email.svg" alt="Cold Email Generator" width="100%"/></a></td>
-    <td><a href="https://self-portfolio-io.palsodkarabhishek24.workers.dev"><img src="assets/card-portfolio.svg" alt="Portfolio" width="100%"/></a></td>
+    <td><a href="https://healthcare-premium-prediction-qz99hgtkn4hxdetrfsrpgv.streamlit.app/"><img src="assets/card-healthcare.svg" alt="Healthcare Premium Prediction" width="100%"/></a></td>
+    <td><a href="https://coldemailgeneratortool.streamlit.app/"><img src="assets/card-cold-email.svg" alt="Cold Email Generator" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://self-portfolio-io.palsodkarabhishek24.workers.dev"><img src="assets/card-portfolio.svg" alt="Portfolio" width="50%"/></a></td>
   </tr>
 </table>
 
-Source code: [ai-data-analyst](https://github.com/Abhishek24122000/ai-data-analyst) · [business-insight-360-fast](https://github.com/Abhishek24122000/business-insight-360-fast) · [SELF_PORTFOLIO.IO](https://github.com/Abhishek24122000/SELF_PORTFOLIO.IO)
+Source code: [ai-data-analyst](https://github.com/Abhishek24122000/ai-data-analyst) · [business-insight-360-fast](https://github.com/Abhishek24122000/business-insight-360-fast) · [Healthcare-Premium-Prediction](https://github.com/Abhishek24122000/Healthcare-Premium-Prediction) · [Cold_Email_Generator](https://github.com/Abhishek24122000/Cold_Email_Generator) · [SELF_PORTFOLIO.IO](https://github.com/Abhishek24122000/SELF_PORTFOLIO.IO)
 
 ## Skills
 
